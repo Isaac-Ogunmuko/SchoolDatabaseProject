@@ -1,4 +1,4 @@
-package schooldatabase;
+package schooldatabase; 
 
 public class Course implements Comparable<Course> {
 
