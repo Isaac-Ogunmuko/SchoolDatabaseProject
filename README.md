@@ -1,4 +1,4 @@
-# School Database Project
+# School Database Project 
 
 This is a Java school database project created for a programming course assignment. The program uses object-oriented programming concepts such as inheritance, constructors, arrays, ArrayLists, file input, and formatted output.
 
